@@ -1,0 +1,313 @@
+canonical_identifier: bkk:krp/KR6p0107/v1
+canonical_location: https://kanripo.org/bkk/KR6p0107/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 淨土必求
+  identifiers:
+    alt_id:
+    - X62n1188
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X62/X62n1188.xml
+    old_id: X62n1188
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6p0107_000.yaml, hash: 'sha256:210acad190a27b5b5831140023483be479e8eaae9822bb04a151f86cfb70e7e9'}
+  - {seq: 1, filename: KR6p0107_001.yaml, hash: 'sha256:c43d142f238b0d4b2708592aed705e4147fae1773cf84331e175818a715095f5'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6p0107_000.markers.yaml, hash: 'sha256:2159a7518571357cdb8dcf750165e8500e43b4b0bcab48e5c24e552e9987b349'}
+  - {seq: 1, role: markers, filename: assets/KR6p0107_001.markers.yaml, hash: 'sha256:e8292a2dcc10f6f08a42f83ec536c66ea619b4bd61c1b642ed2f11b16be6d1c3'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6p0107_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1188-A 淨土必求自敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0107_X_000-mulu-2
+    span:
+    - front
+    - 601
+    - 601
+  label: 淨土必求目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0107_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 8325
+  label: 戀西大師淨土必求亦名淨業痛策
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0107_X_001-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 念佛法門功重老實
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0107_X_001-mulu-2
+    span:
+    - body
+    - 658
+    - 658
+  label: 感堅祖語奉行十念
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0107_X_001-mulu-3
+    span:
+    - body
+    - 666
+    - 666
+  label: 感堅祖語奉行十念
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0107_X_001-mulu-4
+    span:
+    - body
+    - 1306
+    - 1306
+  label: (附)慈雲懺主十念法門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0107_X_001-mulu-5
+    span:
+    - body
+    - 1617
+    - 1617
+  label: 讀要解得持名要訣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0107_X_001-mulu-6
+    span:
+    - body
+    - 2469
+    - 2469
+  label: 讀要解幸死盡偷心
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0107_X_001-mulu-7
+    span:
+    - body
+    - 2913
+    - 2913
+  label: 因動嗔心立行懺悔
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0107_X_001-mulu-8
+    span:
+    - body
+    - 2921
+    - 2921
+  label: 因動嗔心立行懺悔
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0107_X_001-mulu-9
+    span:
+    - body
+    - 3395
+    - 3395
+  label: (附)大懺悔文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0107_X_001-mulu-10
+    span:
+    - body
+    - 3895
+    - 3895
+  label: 讀四大祖師語有感
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0107_X_001-mulu-11
+    span:
+    - body
+    - 4413
+    - 4413
+  label: 稱名述懷四則并序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0107_X_001-mulu-12
+    span:
+    - body
+    - 4957
+    - 4957
+  label: 讀佛偈四則并問答
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0107_X_001-mulu-13
+    span:
+    - body
+    - 5246
+    - 5246
+  label: 舌病難除戒午後食
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0107_X_001-mulu-14
+    span:
+    - body
+    - 5480
+    - 5480
+  label: 愧多貪恚願遲作師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0107_X_001-mulu-15
+    span:
+    - body
+    - 5672
+    - 5672
+  label: 自恥好談慎說人過
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0107_X_001-mulu-16
+    span:
+    - body
+    - 5852
+    - 5852
+  label: 然臂香供梵網經懺悔
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0107_X_001-mulu-17
+    span:
+    - body
+    - 6094
+    - 6094
+  label: 滿七自慶述懷告眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0107_X_001-mulu-18
+    span:
+    - body
+    - 7265
+    - 7265
+  label: 七內發願學六時經行出聲念佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0107_X_001-mulu-19
+    span:
+    - body
+    - 7560
+    - 7560
+  label: 念佛堂所用讚六則
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0107_X_001-mulu-20
+    span:
+    - body
+    - 7798
+    - 7798
+  label: No. 1188-B 淨宗十集(附)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0107_X_001-mulu-21
+    span:
+    - body
+    - 7803
+    - 7803
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0107_X_001-mulu-22
+    span:
+    - body
+    - 8068
+    - 8068
+  label: 極力奉答
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0107_X_001-mulu-23
+    span:
+    - body
+    - 8203
+    - 8203
+  label: 發露懺悔
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0107_X_001-mulu-24
+    span:
+    - body
+    - 8287
+    - 8287
+  label: 讀佛軒對(附)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0107_X_001-mulu-25
+    span:
+    - body
+    - 8306
+    - 8306
+  label: 報恩關對(附)
+  type: mulu
+  level: 1
+hash: sha256:f96f36273e7cff005d35fb83ef1d85668603c689a0a4e6204638651fdf84d74b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
