@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0107_000.yaml, hash: 'sha256:df8e02bb4a375c827b839d6ab84f64e63ff445786a8f9566b20af7815876e66b'}
+  - {seq: 0, filename: KR6p0107_000.yaml, hash: 'sha256:dbcb77122b9cd4b697789fd77a1211bdc07cbf53aa6b05bd5701fe7d4ea6ddd8'}
   - {seq: 1, filename: KR6p0107_001.yaml, hash: 'sha256:7a9cf992b99a00b4c109c43f78b3931997eaca7b1f2566b3d987003e892d8443'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0107_000.markers.yaml, hash: 'sha256:998a6a3126a6005594882783c24e597cfa11a39d1bf09b785a24dfde39242567'}
+  - {seq: 0, role: markers, filename: assets/KR6p0107_000.markers.yaml, hash: 'sha256:1b69c3a60a9f97931a4c180ac96d793cd19a5d6fac5c2d6e07db3e5fda670149'}
   - {seq: 1, role: markers, filename: assets/KR6p0107_001.markers.yaml, hash: 'sha256:acdf8451959f39ac5f1cf621ab893119fe26861fc744ef05fb2ec9af3101441f'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6p0107_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1188-A 淨土必求自敘
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0107_X_000-mulu-2
     span:
-    - front
+    - body
     - 601
     - 601
   label: 淨土必求目錄
@@ -307,7 +307,7 @@ table_of_contents:
   label: 報恩關對(附)
   type: mulu
   level: 1
-hash: sha256:fbf3bacd0c88451aa25567116594daa8c1889d2a96ce6f2c06f9e842c5ac9c4b
+hash: sha256:324a870893a79081e55750ad44890066e21e8198bffcebb6db8a24674db404dd
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

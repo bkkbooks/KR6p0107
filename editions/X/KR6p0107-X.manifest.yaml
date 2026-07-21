@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0107_000-X.yaml, hash: 'sha256:73a8c77d98ce18cff5fabae5bae1a77c4cc28b90d533eb5132f2640cbe8ffd07'}
+  - {seq: 0, filename: KR6p0107_000-X.yaml, hash: 'sha256:f9124140259f86e56993e9e2822fd6982916425bbafc55ce222022730b53b17f'}
   - {seq: 1, filename: KR6p0107_001-X.yaml, hash: 'sha256:dac5603bec334af5d9f0e001db6c037a48f6c2bca682fdc1da1ff4b280d691f1'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0107_000-X.markers.yaml, hash: 'sha256:be1a53085e1d917f258033a24a8e1e2c6af0ac1fe0f31f32d26938ec9ec38e5e'}
+  - {seq: 0, role: markers, filename: assets/KR6p0107_000-X.markers.yaml, hash: 'sha256:79222b1ad53f382e9d067932fc3577a2cda90b01b16bed853b9d62f37d6e0937'}
   - {seq: 1, role: markers, filename: assets/KR6p0107_001-X.markers.yaml, hash: 'sha256:59a550453a5ac3dd7665a6eb9452570b02aa8eb6a63bd28871bdba771b8d9f6a'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6p0107_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1188-A 淨土必求自敘
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0107_X_000-mulu-2
     span:
-    - front
+    - body
     - 601
     - 601
   label: 淨土必求目錄
@@ -305,4 +305,4 @@ table_of_contents:
   label: 報恩關對(附)
   type: mulu
   level: 1
-hash: sha256:6cbca57a1e610f7a4cc0e85dc9fce07a1d579cd8dfb64048174dece0488e8be6
+hash: sha256:b5b3ba19f8f193768c4bd4cc41520a5b06a348c2c31710b329280dada06e0eb5
